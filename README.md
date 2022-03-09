@@ -1,7 +1,16 @@
 DE3Futures
 ==============================
 
-DE3 Futures module
+Go to the notebooks folder to see development of the code. The name of the notebook clearly explains what is contained in it, and the number of the notebook indicates the order in which they were developed. "hjk" indicates a notebook that Hannah worked on and "cgb" indicates a notebook that Camilla worked on. 
+
+The following databses were used:
+- https://www.rainforest-alliance.org/business/certification/certificate-search-and-public-summaries/ was used to find locations of farms in the rainforest, what they harvest and how many workers they have.
+- https://www.sciencedirect.com/science/article/pii/S0959378018314365 was used to find the carbon emissions for each category of crop in Brazil.
+- https://www.fao.org/faostat/en/#data/PP was used to find the price of each crop in Brazil.
+
+These databases were cleaned of images and uploaded to the "interim" folder to be accessed in the notebooks.
+
+**Design Engineering, Imperial College London.**
 
 Project Organization
 ------------
